@@ -1,0 +1,15 @@
+langgraph
+langchain
+langchain-groq
+langchain-community
+pdfplumber        
+PyMuPDF           
+faiss-cpu         
+sentence-transformers 
+pydantic         
+pandas           
+ipywidgets        
+python-dotenv    
+streamlit
+wikipedia
+requests

@@ -1,0 +1,5 @@
+venv/
+.env
+study_planner.db
+faiss_syllabus/
+__pycache__/
