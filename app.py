@@ -1,3 +1,6 @@
+#I have used ChatGPT for frontend part.
+#Streamlit was not taught upto that mark in the videos so I took help from GPT
+
 import streamlit as st
 import tempfile
 import json
