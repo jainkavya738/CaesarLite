@@ -110,12 +110,8 @@ Create a .env file in the project root:
 
 GROQ_API_KEY=your_groq_api_key_here
 
-
-⚠️ Never upload .env to GitHub.
-
 ✅ 5) Run the Streamlit App
 streamlit run app.py
-
 
 It will open in your browser automatically.
 
